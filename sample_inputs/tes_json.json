@@ -1,0 +1,22 @@
+{
+  "invoice_id": "INV-98765",
+  "date": "2025-05-30",
+  "supplier": "Global Electronics Ltd.",
+  "customer": "TechCorp Inc.",
+  "items": [
+    {
+      "item_desc": "USB-C Charging Cable",
+      "qty": 10,
+      "price_per_unit": 5.99,
+      "total_price": 59.90
+    },
+    {
+      "item_desc": "Wireless Mouse",
+      "qty": 2,
+      "price_per_unit": 25.00,
+      "total_price": 50.00
+    }
+  ],
+  "total": 109.90,
+  "message": "Please process this invoice at the earliest convenience."
+}
